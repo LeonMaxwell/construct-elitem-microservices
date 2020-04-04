@@ -1,9 +1,9 @@
 from setuptools import setup
 
 setup(
-    name='construct-elitem-microservices',
+    name='elmicpy',
     version='0.0.1',
-    packages=['construct_elitem_microservices'],
+    packages=['elmicpy'],
     url='',
     license='MIT',
     author='Ryslan Boiko',
